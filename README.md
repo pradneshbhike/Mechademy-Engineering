@@ -27,14 +27,14 @@ Project is divided in 3 sections (A, B and C as mentioned below).
 
 Model is trained with 70% data and tested by 30% of data.
 
-# In section A, 1 hidden layer and 10 nodes each layer Neural Network is used and the model is trained with 50 epochs.
-# Average of the errors =  5.47
-# Standard Deviation of errors =  9.92
+In section A, 1 hidden layer and 10 nodes each layer Neural Network is used and the model is trained with 50 epochs.
+Average of the errors =  5.47
+Standard Deviation of errors =  9.92
 
-# In section B, 1 hidden layer and 10 nodes each layer Neural Network is used and the model is trained with 100 epochs.
-# Average of the errors =  3.95
-# Standard Deviation of errors =  16.06
+In section B, 1 hidden layer and 10 nodes each layer Neural Network is used and the model is trained with 100 epochs.
+Average of the errors =  3.95
+Standard Deviation of errors =  16.06
 
-# In section C, 3 hidden layers and 10 nodes each layer Neural Network is used and the model is trained with 50 epochs.
-# Average of the errors =  0.78
-# Standard Deviation of errors =  2.93
+In section C, 3 hidden layers and 10 nodes each layer Neural Network is used and the model is trained with 50 epochs.
+Average of the errors =  0.78
+Standard Deviation of errors =  2.93
